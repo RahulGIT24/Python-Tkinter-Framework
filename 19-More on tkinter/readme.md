@@ -1,0 +1,1 @@
+Note - Use .ico images to add icon in your GUI.

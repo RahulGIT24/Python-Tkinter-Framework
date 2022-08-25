@@ -1,0 +1,4 @@
+The name of the person is Rahul
+The age of the person is 16
+The Phone Number of the person is 23456798
+The address of the person is Upper Street
